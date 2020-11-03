@@ -6,6 +6,9 @@ El objetivo es la creación de un sensor de sonido que detecte el disparo de sal
 
 ## Material utilizado en laboratorio
 
-+ Arduino Elegoo Mega2560
-+ Sensor de sonidos 
++ Arduino Nano
++ Sensor de sonidos analógico
++ Led diodo
+
+
 
